@@ -1,0 +1,19 @@
+aiXcel.us API Integration License
+
+Copyright (c) 2023, aiXcelus www.aixcel.us
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software, subject to the following conditions:
+
+1. The Software may only be used for the purpose of integrating the aiXcel.us API into the licensee's products.
+
+2. The licensee is prohibited from modifying the Software to use an API or service from a competing provider, whether commercial or non-commercial.
+
+3. Redistributions of the Software must retain the above copyright notice and this permission notice.
+
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND THE AVAILABILITY OR RELIABILITY OF THE API. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING BUT NOT LIMITED TO DOWNTIME, ERRORS, OR INACCURACIES IN THE API, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. The use of the aiXcel.us API is subject to the terms and conditions of the licensee's account license with aiXcel.us, which can be found at https://www.aixcel.us/tos.html.
+
+This license does not grant permission to use the trade names, trademarks, service marks, or product names of aiXcel.us, except as required for reasonable and customary use in describing the origin of the Software.
+
+By using the Software, the licensee agrees to be bound by the terms and conditions of this license.

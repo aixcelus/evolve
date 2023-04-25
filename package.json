@@ -1,0 +1,59 @@
+{
+  "name": "evolve",
+  "version": "1.0.0",
+  "description": "Evolutionary Vigilant Optimizing Verifying Executor (EVOLVE): Process watcher for scripted languages that not only detects crashes and restarts the application, but also heals the code so it doesn't happen again.",
+  "main": "evolve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aixcelus/evolve.git"
+  },
+  "keywords": [
+    "evolutionary",
+    "vigilant",
+    "optimizing",
+    "verifying",
+    "executor",
+    "EVOLVE",
+    "process",
+    "watcher",
+    "scripted",
+    "languages",
+    "crash",
+    "detection",
+    "application",
+    "restart",
+    "code",
+    "healing",
+    "self-healing",
+    "auto-repair",
+    "runtime",
+    "optimization",
+    "fault",
+    "tolerance",
+    "error",
+    "prevention",
+    "crash",
+    "prevention",
+    "code",
+    "reliability",
+    "adaptive",
+    "monitoring",
+    "dynamic",
+    "recovery"
+  ],
+  "author": "Steven Morrey smorrey@aixcel.us",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/aixcelus/evolve/issues"
+  },
+  "homepage": "https://github.com/aixcelus/evolve#readme",
+  "dependencies": {
+    "axios": "^1.3.6",
+    "fs-extra": "^11.1.1",
+    "mime": "^3.0.0",
+    "node-pty": "^0.10.1"
+  }
+}
